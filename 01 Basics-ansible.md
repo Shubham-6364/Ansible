@@ -15,7 +15,7 @@
   ```
 - add the server groups
   ```
-  vim /etc/ansible/host
+  vim /etc/ansible/hosts
   ```
   ```
   [development]
